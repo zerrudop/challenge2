@@ -1,0 +1,7 @@
+.item:has(.star) {
+    background: #df1212;
+}
+
+.item:has(.skull){
+    color:green;
+}
